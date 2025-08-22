@@ -32,17 +32,17 @@ Se centra en una empresa industrial ficticia con el objetivo de analizar su cat�
 
 ---
 
-## 📊 Capturas del dashboard_
+## 📊 Proyecto destacado: Análisis de rotación de productos (TFM)
 
-![Vista del dashboard en Power BI](./dashboard.png)
+Caso de uso desarrollado en Power BI y Python para una empresa industrial ficticia.  
+Incluye análisis de catálogo, segmentación con K-Means, visualización de KPIs y toma de decisiones basada en datos.
 
----
+![Vista del dashboard](https://raw.githubusercontent.com/sandraconca/powerbi-product-rotation-IEBS/main/dashboard.png)
 
-## 📥 Acceso al proyecto
-
-📄 [Ver memoria del proyecto (PDF)](./TFM_Sandra_Conca.pdf)  
-📊 [Descargar archivo Power BI (Google Drive)](https://drive.google.com/file/d/1kHD48z7H1_3-GlRC8iivcL4pzRELgOGv/view?usp=sharing)
-🐍 [Algoritmo KMeans en Python](./KMeans.ipynb)
+📄 [Ver memoria del proyecto (PDF)](https://github.com/sandraconca/powerbi-product-rotation-IEBS/blob/main/TFM_Sandra_Conca.pdf)  
+📊 [Descargar archivo Power BI (Google Drive)](https://drive.google.com/file/d/1kHD48z7H1_3-GlRC8iivcL4pzRELgOGv/view?usp=sharing)  
+🐍 [Notebook de clustering en Python](https://github.com/sandraconca/powerbi-product-rotation-IEBS/blob/main/KMeans.ipynb)  
+🔗 [Ver repositorio completo](https://github.com/sandraconca/powerbi-product-rotation-IEBS)
 
 ---
 
