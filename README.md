@@ -41,7 +41,7 @@ Se centra en una empresa industrial ficticia con el objetivo de analizar su cat�
 ## 📥 Acceso al proyecto
 
 📄 [Ver memoria del proyecto (PDF)](./TFM_Sandra_Conca.pdf)  
-📊 [Descargar archivo Power BI](./dashboard.pbix)
+📊 [Descargar archivo Power BI (Google Drive)](https://drive.google.com/file/d/1kHD48z7H1_3-GlRC8iivcL4pzRELgOGv/view?usp=sharing)
 🐍 [Algoritmo KMeans en Python](./KMeans.ipynb)
 
 ---
