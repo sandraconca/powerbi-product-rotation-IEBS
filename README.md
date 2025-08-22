@@ -6,7 +6,7 @@ Actualmente trabajo en el sector cloud, generando dashboards e insights para fab
 
 ---
 
-## 💼 Proyecto destacado: Optimización de catálogo con Power BI
+## 💼 Optimización de catálogo con Power BI
 
 Como trabajo final del Máster en Data Analysis & Business Intelligence, desarrollé un proyecto aplicado al sector industrial, enfocado en la rotación de productos y la optimización del catálogo.
 
